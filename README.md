@@ -36,9 +36,10 @@ Tools and Libraries
     - https://www.census.gov/cgi-bin/geo/shapefiles/index.php?year=2020&layergroup=Counties+%28and+equivalent%29
 
 ## Usage
-	### 1.	Clone the repository:
+### 1.	Clone the repository:
 
 `git clone [repository URL]`
+
 `cd [repository folder]`
 
 
