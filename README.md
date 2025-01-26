@@ -36,35 +36,35 @@ Tools and Libraries
     - https://www.census.gov/cgi-bin/geo/shapefiles/index.php?year=2020&layergroup=Counties+%28and+equivalent%29
 
 ## Usage
-### 1.	Clone the repository:
+#### 1.	Clone the repository:
 
 `git clone [repository URL]`
 
 `cd [repository folder]`
 
 
-## 2.	Install required dependencies:
+#### 2.	Install required dependencies:
 
 `pip install -r requirements.txt`
 
-## 3.	Open the Jupyter Notebook:
+#### 3.	Open the Jupyter Notebook:
 
 `jupyter notebook Gerrymandering_Final_Project.ipynb`
 
-## 4.	Run the notebook cells sequentially to process data and generate visualizations.
+#### 4.	Run the notebook cells sequentially to process data and generate visualizations.
 
-**Outputs**
-	•	Interactive maps visualizing district boundaries.
-	•	Charts showing partisan bias and demographic distributions.
-	•	Statistical reports evaluating gerrymandering metrics.
+## Outputs
+- Interactive maps visualizing district boundaries.
+- Charts showing partisan bias and demographic distributions.
+- Statistical reports evaluating gerrymandering metrics.
 
-**Future Work**
-	•	Implement machine learning models to optimize district drawing.
-	•	Extend analysis to additional states or countries.
-	•	Develop a user-friendly interface for broader accessibility.
+## Future Work
+- Implement machine learning models to optimize district drawing.
+- Extend analysis to additional states or countries.
+- Develop a user-friendly interface for broader accessibility.
 
-**Contributing**
-Contributions are welcome! Please fork the repository, create a new branch for your feature or fix, and submit a pull request.
+## Contributing
+- Contributions are welcome! Please fork the repository, create a new branch for your feature or fix, and submit a pull request.
 
-**License**
-This project is licensed under the MIT License.
+## License
+- This project is licensed under the MIT License.
